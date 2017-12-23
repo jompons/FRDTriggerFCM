@@ -1,0 +1,73 @@
+{
+  "project_info": {
+    "project_number": "405265436197",
+    "firebase_url": "https://api-project-405265436197.firebaseio.com",
+    "project_id": "api-project-405265436197",
+    "storage_bucket": "api-project-405265436197.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:405265436197:android:aad18501316481d8",
+        "android_client_info": {
+          "package_name": "com.jompon.testfirebasedatabase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "405265436197-s5lhdv7vsasns4mg76ih6vtkqkmnkmcu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDmVsuTuy6kmItFDxaYQhUt7591O9Ftbm0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:405265436197:android:a7fb2db793bfad33",
+        "android_client_info": {
+          "package_name": "com.jompon.fcmandroid"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "405265436197-s5lhdv7vsasns4mg76ih6vtkqkmnkmcu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDmVsuTuy6kmItFDxaYQhUt7591O9Ftbm0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
